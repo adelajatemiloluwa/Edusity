@@ -18,8 +18,8 @@ const Testimonial = () => {
                     <div className="user-info">
                         <img src={user1} alt="" />
                         <div>
-                            <h3>Idowu Racheal</h3>
-                            <span>Educity, Nigeria.</span>
+                            <h3>Vran Chris</h3>
+                            <span>Educity, Philippines.</span>
                         </div>
                     </div>
                     <p>Choosing to pursue my degree at Educity was one of
